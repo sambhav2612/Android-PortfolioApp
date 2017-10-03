@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name_label">Project1</string>
+    <string name="about_me_label">About Me</string>
+    <string name="feedback_label">Feedback Form</string>
+    <string name="like">Liked it</string>
+    <string name="nope">Nope</string>
+    <string name="idgaf">Not seen yet</string>
+    <string name="TVF_Desp" translatable="false">TVF Pitchers is an Indian web series created by The Viral Fever. Use the button below to know more about TVF Pitchers.</string>
+    <string name="click_to_know_more">click here to know more</string>
+    <string name="feedback_fill">FEEDBACK >></string>
+    <string name="exit_app">exit app</string>
+    <string name="take_to_about">About me >></string>
+    <string name="hola">Hola! \n I am Sambhav Jain</string>
+    <string name="my_desp">I am currently pursuing BSc in Computer Science from Delhi University, IN. I look forward to opportunities in the domains of Open-Source Development focusing on technologies like new Android and Web (portable) Frameworks and Augmented Reality (AR) Applications connected via VR Headsets.</string>
+    <string name="part_my_desp">Sounds like magic, right?</string>
+    <string name="go_to_github">Access the Source Code from GitHub >></string>
+    <string name="fill_details">Please fill-in your details: </string>
+    <string name="enter_name">enter your name</string>
+    <string name="enter_address">enter your address</string>
+    <string name="enter_phone">enter your phone number</string>
+    <string name="submit_feedback">submit form >></string>
+    <string name="land">Screen switched to Landscape mode</string>
+    <string name="port">Screen switched to Portrait mode</string>
+</resources>

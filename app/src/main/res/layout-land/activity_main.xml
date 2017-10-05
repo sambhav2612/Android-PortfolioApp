@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.udacity_project1.MainActivity">
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF">
+
+        <TextView
+            android:id="@+id/textView"
+            android:text="@string/hola"
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:backgroundTint="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="12dp" />
+
+        <ImageView
+            android:id="@+id/dp"
+            android:layout_below="@id/textView"
+            android:scaleType="fitXY"
+            android:layout_marginTop="12dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/dp"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:adjustViewBounds="true"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/desp"
+            android:layout_below="@id/dp"
+            android:text="@string/my_desp"
+            android:textSize="16sp"
+            android:textColor="#201C15"
+            android:backgroundTint="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/magic"
+            android:layout_below="@id/desp"
+            android:text="@string/part_my_desp"
+            android:textStyle="italic"
+            android:textSize="16sp"
+            android:textColor="#201C15"
+            android:backgroundTint="@color/colorAccent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true" />
+
+        <View
+            android:id = "@+id/empty_view"
+            android:layout_below="@id/magic"
+            android:layout_height = "30dp"
+            android:layout_width = "match_parent"
+            android:visibility="invisible"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/empty_view"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginStart="5dp"
+            android:weightSum="3.0">
+            <Button
+                android:id="@+id/source"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_weight="1.0"
+                android:background="@color/colorAccent"
+                android:onClick="linkToSourceCode"
+                android:padding="5dp"
+                android:text="@string/go_to_github"
+                android:textColor="#FFF"
+                android:textSize="15sp" />
+            <Button
+                android:id="@+id/to_website"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_weight="1.0"
+                android:background="@color/colorAccent"
+                android:padding="5dp"
+                android:onClick="openWebsite"
+                android:text="@string/to_web"
+                android:textColor="#FFF"
+                android:textSize="15sp" />
+            <Button
+                android:id="@+id/to_feedback"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@color/colorAccent"
+                android:padding="5dp"
+                android:onClick="fillFeedback"
+                android:text="@string/to_feed"
+                android:textColor="#FFF"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>

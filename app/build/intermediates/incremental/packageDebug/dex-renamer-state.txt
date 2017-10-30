@@ -1,0 +1,7 @@
+#Thu Oct 05 20:08:46 IST 2017
+base.0=D\:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0fbd69f042596f5c70be7ec5b0eeef3e04c84bbc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e53b8dd11f71b76b5edeeba3f41409c89c983be\\classes.dex
+base.1=D\:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e53b8dd11f71b76b5edeeba3f41409c89c983be
+file.0=D\:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0fbd69f042596f5c70be7ec5b0eeef3e04c84bbc\\classes.dex

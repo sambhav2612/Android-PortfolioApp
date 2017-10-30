@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

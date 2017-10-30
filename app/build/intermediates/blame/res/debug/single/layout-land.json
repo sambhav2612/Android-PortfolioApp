@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_feedback.xml",
+        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\src\\main\\res\\layout-land\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_about_me.xml",
+        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\src\\main\\res\\layout-land\\activity_about_me.xml"
+    },
+    {
+        "merged": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "D:\\COLLEGE\\second year\\sem 3\\android\\Udacity-Project1\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    }
+]
